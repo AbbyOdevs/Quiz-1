@@ -1,5 +1,0 @@
-body { font-family: Arial; background: #f9f9f9; }
-.container { width: 600px; margin: 20px auto; padding: 20px; background: #fff; border-radius: 8px; box-shadow: 0 0 10px #ccc; }
-input, button { margin: 5px 0; padding: 8px; width: 100%; }
-.gallery { display: flex; flex-wrap: wrap; gap: 10px; }
-.photo { border: 1px solid #ddd; padding: 5px; border-radius: 5px; text-align: center; }
